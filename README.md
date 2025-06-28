@@ -1,5 +1,3 @@
-# Flipkart-Mobiles-Sales-Data-Warehouse-Using-Snowflake
-
 # 📱 Flipkart Mobile Sales Data Warehouse Project – Using Snowflake
 
 # 📊 Overview
@@ -8,8 +6,8 @@ This project demonstrates how to build a data warehouse and analytics solution f
 
 # ✅ Project Goals
 
-Load and manage Flipkart mobile sales data,
-Handle NULL values and clean the dataset
+- Load and manage Flipkart mobile sales data,
+- Handle NULL values and clean the dataset
 Remove duplicates and ensure data quality
 Store analytical results using best practices
 Create interactive dashboards directly in Snowflake using Streamlit
