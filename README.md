@@ -8,7 +8,7 @@ This project demonstrates how to build a data warehouse and analytics solution f
 
 # ✅ Project Goals
 
-Load and manage Flipkart mobile sales data
+Load and manage Flipkart mobile sales data,
 Handle NULL values and clean the dataset
 Remove duplicates and ensure data quality
 Store analytical results using best practices
